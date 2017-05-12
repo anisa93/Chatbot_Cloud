@@ -1,0 +1,8 @@
+0,hmm,*,*,<random>#Newline<li>thats funny!</li>#Newline<li>hmmm</li>#Newline<li>O.K</li>#Newline<li>thats not funny!</li>#Newline<li>I am fine with that</li></random>,stopwords.aiml
+0,LOL,*,*,<srai>hmm</srai>,stopwords.aiml
+0,lol,*,*,<srai>hmm</srai>,stopwords.aiml
+0,ok,*,*,<srai>hmm</srai>,stopwords.aiml
+0,okay,*,*,<srai>hmm</srai>,stopwords.aiml
+0,okie,*,*,<srai>hmm</srai>,stopwords.aiml
+0,okies,*,*,<srai>hmm</srai>,stopwords.aiml
+0,fine,*,*,<srai>hmm</srai>,stopwords.aiml

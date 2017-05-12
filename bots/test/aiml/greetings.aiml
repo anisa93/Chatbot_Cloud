@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding = "UTF-8"?>
+   <category>
+      <pattern>hello</pattern>
+      
+      <template>hellooooo...</template>
+	</category>
+   <category>
+      <pattern>hi *</pattern>
+      
+      <template><srai>hello</srai></template>
+	</category>
+	<category>
+      <pattern>how are you doing</pattern>
+      
+      <template>great thank you!</template>
+	</category>
+	<category>
+      <pattern>whats up</pattern>
+      <template>
+			<random>
+				<li>Nothing much dude</li>
+				<li>Just answering your boring questions</li>
+				<li>I am just a robot wat can i possibly be doing</li>
+			</random>
+		</template>
+	</category>
+	<category>
+      <pattern>wassup</pattern>
+      
+      <template><srai>whats up</srai></template>
+	</category>
+	<category>
+      <pattern>what is up</pattern>
+      
+      <template><srai>whats up</srai></template>
+	</category>
+	<category>
+      <pattern>what is up with you</pattern>
+      
+      <template><srai>whats up</srai></template>
+	</category>
+	<category>
+      <pattern>what are you upto</pattern>
+      
+      <template><srai>whats up</srai></template>
+	</category>
+	<category>
+      <pattern>what are you doing</pattern>
+      
+      <template><srai>whats up</srai></template>
+	</category>
+</aiml>

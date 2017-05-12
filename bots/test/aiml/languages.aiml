@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding = "UTF-8"?>
+  <category>
+  <pattern>Do you know hindi</pattern>
+  <template>yes Namasthe _/\_</template>
+ </category>
+<category>
+  <pattern>kaise ho</pattern>
+  <template>Theek yaar(good dude)</template>
+ </category> 
+<category>
+  <pattern>Namasthe</pattern>
+  <template>Namasthe(hello!)</template>
+ </category>  
+ <category>
+  <pattern>Do you know french</pattern>
+  <template>Floriane might help you with that</template>
+ </category> 
+ <category>
+  <pattern>I dont know her</pattern>
+  <template>socialize bro</template>
+ </category> 
+ <category>
+  <pattern>i dont know him</pattern>
+  <template><srai>i dont know her</srai></template>
+ </category> 
+</aiml>

@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding = "UTF-8"?>
+   <category>
+      <pattern>WHAT COURSES ARE YOU TAKING THIS SEMESTER</pattern>
+      
+      <template>I am taking cloud computing-Advanced Java-Algorithms and Data structures</template>
+	</category>
+   <category>
+      <pattern>WHICH IS THE TOUGHEST COURSE</pattern>
+      
+      <template>Cloud Computing was fairly tough I believe-But fun to do.</template>
+	</category>
+	<category>
+      <pattern>WHAT DO U THINK IS THE BEST COURSE</pattern>
+      
+      <template>
+		<random>
+			<li>What are you interested in</li>
+			<li>Try databases</li>
+			<li>I dont know take what you like dude!.</li>
+		</random>
+	</template>
+	</category>
+</aiml>

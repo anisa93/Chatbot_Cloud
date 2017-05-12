@@ -1,0 +1,67 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding = "UTF-8"?>
+   <category>
+      <pattern> HELLO ADIBA </pattern>
+      
+      <template>
+         Hello User
+      </template>
+      
+   </category>
+   <category>
+		<pattern>I LIKE *</pattern>
+		<template>
+			I too like <star/>.
+		</template>
+	<category>
+	<category>
+		<pattern>WHO IS ALBERT EINSTEIN</pattern>
+		<template>Albert Einstein was a German Physicist.</template>
+	</category>
+	<category>
+		<pattern>WHO IS ISAAC NEWTON</pattern>
+		<template>Isaac Newton was a English Physicist</template>
+	</category>
+	<category>
+		<pattern>BYE</pattern>
+		<template>Good Bye!</template>
+	</category>
+	<category>
+		<pattern>BYE *</pattern>
+		<template>
+			<srai>BYE</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>FACTORY</pattern>
+		<template>Development Center!</template>
+	</category>
+	<category>
+		<pattern>INDUSTRY</pattern>
+		<template>
+			<srai>FACTORY</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>SCHOOL</pattern>
+		<template>School is an important institution in a child's life.</template>
+	</category>
+	<category>
+		<pattern>_ SCHOOL</pattern>
+		<template>
+			<srai>SCHOOL</srai>
+		</template>
+	</category>
+	<category>
+	   <pattern>SCHOOL *</pattern>
+	   <template>
+		  <srai>SCHOOL</srai>
+	   </template>
+	</category>
+	<category>
+	   <pattern>_ SCHOOL *</pattern>
+	   <template>
+		  <srai>SCHOOL</srai>
+	   </template>
+	</category>
+</aiml>

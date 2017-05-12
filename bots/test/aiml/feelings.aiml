@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding = "UTF-8"?>
+  <category>
+  <pattern>I hate you</pattern>
+  <template>That is so mean</template>
+ </category>
+<category>
+  <pattern>I love you</pattern>
+  <template>I am a robot do what are you expecting</template>
+ </category>  
+ <category>
+  <pattern>what do you eat</pattern>
+  <template>Your systems space ;)</template>
+ </category>
+<category>
+  <pattern>Good Luck</pattern>
+  <template>good luck to you too!</template>
+ </category> 
+ <category>
+  <pattern>what else</pattern>
+  <template>thats it for today!</template>
+ </category>
+ <category>
+  <pattern>Do you have feelings</pattern>
+  <template>I am just a robot grow up!</template>
+ </category>
+ <category>
+  <pattern>How do you think the assignments are</pattern>
+  <template>**LONG PAUSE**</template>
+ </category>
+ <pattern>Do you like Boston</pattern>
+  <template>I live in your system!!!</template>
+ </category>
+</aiml>

@@ -1,0 +1,43 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding = "UTF-8"?>
+  <category>
+  <pattern>hmm</pattern>
+  <template>
+	<random>
+		<li>thats funny!</li>
+		<li>hmmm</li>
+		<li>O.K</li>
+		<li>thats not funny!</li>
+		<li>I am fine with that</li>
+	</random>
+</template>
+ </category>
+<category>
+  <pattern>LOL</pattern>
+  <template><srai>hmm</srai></template>
+ </category> 
+ <category>
+  <pattern>lol</pattern>
+  <template><srai>hmm</srai></template>
+ </category> 
+ <category>
+  <pattern>ok</pattern>
+  <template><srai>hmm</srai></template>
+ </category> 
+ <category>
+  <pattern>okay</pattern>
+  <template><srai>hmm</srai></template>
+ </category>
+<category>
+  <pattern>okie</pattern>
+  <template><srai>hmm</srai></template>
+ </category> 
+<category>
+  <pattern>okies</pattern>
+  <template><srai>hmm</srai></template>
+ </category> 
+<category>
+  <pattern>fine</pattern>
+  <template><srai>hmm</srai></template>
+ </category>  
+</aiml>

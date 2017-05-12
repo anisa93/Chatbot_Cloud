@@ -1,0 +1,11 @@
+0,hello,*,*,hellooooo...,greetings.aiml
+0,hi *,*,*,<srai>hello</srai>,greetings.aiml
+0,how are you doing,*,*,great thank you!,greetings.aiml
+0,whats up,*,*,<random>#Newline<li>Nothing much dude</li>#Newline<li>Just answering your boring questions</li>#Newline<li>I am just a robot wat can i possibly be doing</li></random>,greetings.aiml
+0,wassup,*,*,<srai>whats up</srai>,greetings.aiml
+0,what is up,*,*,<srai>whats up</srai>,greetings.aiml
+0,what is up with you,*,*,<srai>whats up</srai>,greetings.aiml
+0,what are you upto,*,*,<srai>whats up</srai>,greetings.aiml
+0,what are you doing,*,*,<srai>whats up</srai>,greetings.aiml
+
+

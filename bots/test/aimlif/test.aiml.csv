@@ -1,0 +1,12 @@
+0,HELLO ADIBA,*,*,Hello User,test.aiml
+0,I LIKE *,*,*,I too like <star/>.,test.aiml
+0,WHO IS ALBERT EINSTEIN,*,*,Albert Einstein was a German Physicist.,test.aiml
+0,WHO IS ISAAC NEWTON,*,*,Isaac Newton was a English Physicist.,test.aiml
+0,BYE,*,*,Good Bye!.,test.aiml
+0,BYE *,*,*,<srai>BYE</srai>,test.aiml 
+0,FACTORY,*,*,Development Center!,test.aiml
+0,INDUSTRY,*,*,<srai>FACTORY</srai>,test.aiml
+0,SCHOOL,*,*,School is an important institution in a child's life.,test.aiml
+0,_ SCHOOL,*,*,<srai>SCHOOL</srai>,test.aiml
+0,SCHOOL *,*,*,<srai>SCHOOL</srai>,test.aiml
+0,_ SCHOOL *,*,*,<srai>SCHOOL</srai>,test.aim
